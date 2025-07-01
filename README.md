@@ -80,4 +80,6 @@ hobbies: ["Reading", "Sports", "Coffee", "Networking"]
   <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Nice%20to%20meet%20you!&textBg=false&section=footer&descAlign=50&descAlignY=65"/>
 </p>
 
+--- 
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinkett99)](https://github.com/anuraghazra/github-readme-stats)
