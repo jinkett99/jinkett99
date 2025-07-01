@@ -1,16 +1,64 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hello%20there!&textBg=false&section=header&desc=Welcome%20to%20my%20code.&descAlign=50&descAlignY=65"/>
+</p>
 
-<!--
-**jinkett99/jinkett99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://medium.com/@jinkett99/about">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/jinkettyee/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://medium.com/@jinkett99">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
+<a href="https://x.com/jinkettmonkey">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/_jinkettmonkey/?hl=en">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little More About Me and My Current Pursuits</h2>
+
+```yaml
+name: Jin Kett YEE
+located_in: Singapore, Singapore
+current_job: Business Statistics, Data Science & Machine Learning
+education:
+  [
+    "Master's in Computer Science & Artificial Intelligence",
+    "Bachelor's in Biomedical Sciences & Statistics",
+    "Diploma in Education",
+  ]
+company: National Statistical Office (Singapore)
+
+fields_of_interests:
+  [
+    "Data Science",
+    "Machine Learning",
+    "Evaluation of ML Methodologies",
+    "Statistical Data Analysis",
+    "Natural Language Processing",
+    "Large Language Models",
+    "Generative AI",
+  ]
+technical_background:
+  [
+    "Business Statistician"
+    "Educational Technology Officer",
+    "Part-time Researcher - SMU MITB Programme",
+    "Intern - Biomedical Science Research",
+  ]
+  
+currently_learning: ["Docker, LlamaIndex, LangChain, ChainLit"]
+2025 Goals: ["Gain new experiences in product development and deployment lifecycle. Keeping up with latest advancements in Generative AI."]
+hobbies: ["Reading", "Sports", "Coffee", "Networking"]
+```
