@@ -38,7 +38,7 @@ education:
     "Bachelor's in Biomedical Sciences & Statistics",
     "Diploma in Education",
   ]
-company: National Statistical Office (Singapore)
+company: Technology Office (Singapore)
 
 fields_of_interests:
   [
@@ -52,6 +52,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Data Scientist",
     "Business Statistician",
     "Educational Technology Officer",
     "Part-time Researcher - SMU MITB Programme",
